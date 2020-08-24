@@ -1,4 +1,4 @@
-Projeto que gerencia CNPJ's cadastrados.
+Projeto que gerencia CNPJ's cadastrados - frontend
 
 ## Available Scripts
 
